@@ -525,5 +525,4 @@ class TestMainCalculator:
         output = run_program("main.py", ["modulo", "5", "0", "exit"])
         assert "Error: Modulo by zero is not allowed." in output
 
-
 # FREEZE CODE END
