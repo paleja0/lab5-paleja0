@@ -5,6 +5,7 @@ Lab 5
 ******************************************************************************/
 Número de horas:
 
+26
 
 /******************************************************************************
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
@@ -12,18 +13,20 @@ Número de horas:
 
 ¿Sí o no?
 
+no 
 
 /******************************************************************************
 * Escribe cualquier otro comentario aquí.
 ******************************************************************************/
 
-
+esta larguito :(
 
 /******************************************************************************
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
 [escribe el enlace aquí]
+https://github.com/paleja0
 
 /******************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
@@ -35,4 +38,5 @@ Número de horas:
  ******************************************************************************/
 
 [escribe y firma la declaración aquí]
-
+*      Esta tarea de programación representa mi propio trabajo de acuerdo
+ *      con las regulaciones de la Universidad.  /s/ Paula Garcia
