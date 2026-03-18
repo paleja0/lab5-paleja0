@@ -527,5 +527,3 @@ class TestMainCalculator:
 
 
 # FREEZE CODE END
-
-
